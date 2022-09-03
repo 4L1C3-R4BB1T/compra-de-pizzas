@@ -389,13 +389,13 @@ h1 {
     background-color: #35af4a;
 }
 
-@media (max-width:1000px) {
+@media (max-width:1470px) {
     .pizza-area {
         grid-template-columns: repeat(2, 1fr);
     }
 }
 
-@media (max-width:840px) {
+@media (max-width:990px) {
     body {
         flex-direction: column;
     }
